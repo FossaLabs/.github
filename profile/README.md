@@ -3,7 +3,7 @@
   <b>Enjoy Furtainment, Live The Fandom!</b>
 </p></h3></br>
 
-[![FossaLabs Header Logo.](https://cdn.furrys.org/github/fossalabs/images/fossalabs_github_1500x400.webp)](https://github.com/FossaLabs)
+[![FossaLabs Header Logo.](https://cdn.furrys.org/github/fossalabs/images/fossalabs_github_1500x400.webp)](https://fossalabs.com)
 
 FossaLabs is an organisation repository to publish educational code created by <a href="https://github.com/Fesothe">Velivian Fesothe</a> for FossaLabs.
 
